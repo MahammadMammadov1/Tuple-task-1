@@ -1,0 +1,14 @@
+C:\Users\Mehemmed\Desktop\BP206task\Tuple\Tuple\bin\Debug\net6.0\Tuple task.exe
+C:\Users\Mehemmed\Desktop\BP206task\Tuple\Tuple\bin\Debug\net6.0\Tuple task.deps.json
+C:\Users\Mehemmed\Desktop\BP206task\Tuple\Tuple\bin\Debug\net6.0\Tuple task.runtimeconfig.json
+C:\Users\Mehemmed\Desktop\BP206task\Tuple\Tuple\bin\Debug\net6.0\Tuple task.dll
+C:\Users\Mehemmed\Desktop\BP206task\Tuple\Tuple\bin\Debug\net6.0\Tuple task.pdb
+C:\Users\Mehemmed\Desktop\BP206task\Tuple\Tuple\obj\Debug\net6.0\Tuple task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehemmed\Desktop\BP206task\Tuple\Tuple\obj\Debug\net6.0\Tuple task.AssemblyInfoInputs.cache
+C:\Users\Mehemmed\Desktop\BP206task\Tuple\Tuple\obj\Debug\net6.0\Tuple task.AssemblyInfo.cs
+C:\Users\Mehemmed\Desktop\BP206task\Tuple\Tuple\obj\Debug\net6.0\Tuple task.csproj.CoreCompileInputs.cache
+C:\Users\Mehemmed\Desktop\BP206task\Tuple\Tuple\obj\Debug\net6.0\Tuple task.dll
+C:\Users\Mehemmed\Desktop\BP206task\Tuple\Tuple\obj\Debug\net6.0\refint\Tuple task.dll
+C:\Users\Mehemmed\Desktop\BP206task\Tuple\Tuple\obj\Debug\net6.0\Tuple task.pdb
+C:\Users\Mehemmed\Desktop\BP206task\Tuple\Tuple\obj\Debug\net6.0\Tuple task.genruntimeconfig.cache
+C:\Users\Mehemmed\Desktop\BP206task\Tuple\Tuple\obj\Debug\net6.0\ref\Tuple task.dll
